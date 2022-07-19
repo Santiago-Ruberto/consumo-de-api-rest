@@ -15,7 +15,8 @@
   "bugs": {
     "url": "https://github.com/Santiago-Ruberto/consumo-de-api-rest/issues"
   },
-  "homepage": "https://github.com/Santiago-Ruberto/consumo-de-api-rest#readme"
+  "homepage": "https://github.com/Santiago-Ruberto/consumo-de-api-rest#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
-
-
